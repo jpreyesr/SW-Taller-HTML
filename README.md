@@ -1,2 +1,3 @@
 # SW-Taller-HTML
-Taller html Juan Pablo Reyes Romero
+Juan Pablo Reyes Romero
+202310852
